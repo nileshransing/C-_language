@@ -18,10 +18,10 @@ int main(){
 //  9 1001
 // 10 1010
 
-  int a=9; // 1001
-  int b=10; //1010
+int a=9;  // 1001
+int b=10; // 1010
 
   // And &
-  printf("a&b = %d \n",a&b);
+    printf("a&b = %d \n",a&b);
     return 0;
 }
