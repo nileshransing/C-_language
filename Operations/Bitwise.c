@@ -17,11 +17,33 @@ int main(){
 //  8 1000
 //  9 1001
 // 10 1010
+// 11 1011
 
 int a=9;  // 1001
 int b=10; // 1010
 
   // And &
     printf("a&b = %d \n",a&b);
-    return 0;
-}
+   
+
+    // oR |
+    printf("a|b =%d \n", a|b);
+
+    // ^ XOR
+    printf("a^b = %d \n", a^b);
+
+    // ~ Complement
+
+    printf(" ~a = %d \n", ~a);
+
+    // << leftshift
+
+    printf("a<<1=%d\n",a<<1);
+
+    // >> right shift
+     a=20;
+    printf("a>>1=%d\n",a>>1);
+
+
+     return 0;
+ }
