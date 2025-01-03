@@ -5,7 +5,7 @@ Customer Dashboard- Submit Service request
                     Choose request type
                     Provide details.
                     
-  Track Service Request- View status, 
+  Track Service Request- View status
                          submitted date, 
                          resolved date. 
                          
