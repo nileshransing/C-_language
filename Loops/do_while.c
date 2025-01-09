@@ -1,12 +1,3 @@
-
-
-
-
-
-
-
-
-
 #include<stdio.h>
 int main(){
 
@@ -19,9 +10,7 @@ int main(){
 // }while(a<10);
 
 
-
-
-
+   // Example
 int choice;
 do {
     
