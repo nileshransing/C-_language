@@ -11,7 +11,7 @@ int main(){
     //  printf("  Enter the element ");
     // scanf("%d",&key);
 
-    while(low<high){
+    while(low<=high){
 
         int mid = (low + high )/2;
        
