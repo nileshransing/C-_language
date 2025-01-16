@@ -7,18 +7,18 @@ int main(){
     int low=0 , size=5;
     int high=size-1;
     int flag =0;
-    int key =99 ;
+    int key = 99;
     //  printf("  Enter the element ");
     // scanf("%d",&key);
 
-    while(low<high){
+    while(low<=high){
 
         int mid = (low + high )/2;
        
          
          if(key==arr[mid]){
 
-            printf("Element found arr[%d] =  %d \n ",mid,arr[mid]);
+            printf("Element found at index %d and element is %d \n ",mid, arr[mid]);
             flag=1;
            break;
          }else if(key>arr[mid]){
