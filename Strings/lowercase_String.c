@@ -15,7 +15,5 @@ int main(){
    }
    printf("Without function = %s",str2);
     
-  
-
     return 0;
 }
