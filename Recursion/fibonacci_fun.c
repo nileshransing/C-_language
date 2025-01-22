@@ -14,7 +14,7 @@ int fibo(int a, int b,int n){
 int main(){
 
      int a=0,b=1;
-     int n=8;
+     int n=5;
      printf("%d ",a);
      printf("%d ",b);
     fibo(a,b,n);
