@@ -19,7 +19,7 @@ extern int extn = 40;
 
      printf("extern = %d\n",extn);
     extn++;   // -- increment in value
- }
+ }   
 
 int main(){
     // auto class
