@@ -1,0 +1,20 @@
+Id = 1
+Name = Nilesh
+Marks = 4545.00
+
+Id = 2
+Name = Amar
+Marks = 234.00
+
+Id = 3
+Name = Om
+Marks = 54.00
+
+Id = 4
+Name = Dipak
+Marks = 32.00
+
+Id = 5
+Name = Rahul
+Marks = 56.00
+
