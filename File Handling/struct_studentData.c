@@ -9,7 +9,7 @@ struct studentinfo{
 
 int main(){
 
-FILE *fptr = fopen("studentDat.txt","w");
+FILE *fptr = fopen("studentData.txt","w");
 
 if(fptr != NULL){
     printf("File Exists\n");
